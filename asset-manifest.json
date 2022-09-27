@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VitaliiTreskov/Home-product-acc-app.git/static/css/main.1deb9a2d.css",
+    "main.js": "/VitaliiTreskov/Home-product-acc-app.git/static/js/main.e4b2613b.js",
+    "index.html": "/VitaliiTreskov/Home-product-acc-app.git/index.html",
+    "main.1deb9a2d.css.map": "/VitaliiTreskov/Home-product-acc-app.git/static/css/main.1deb9a2d.css.map",
+    "main.e4b2613b.js.map": "/VitaliiTreskov/Home-product-acc-app.git/static/js/main.e4b2613b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1deb9a2d.css",
+    "static/js/main.e4b2613b.js"
+  ]
+}

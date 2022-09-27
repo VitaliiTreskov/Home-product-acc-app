@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/VitaliiTreskov/Home-product-acc-app/static/css/main.1deb9a2d.css",
-    "main.js": "/VitaliiTreskov/Home-product-acc-app/static/js/main.e4b2613b.js",
-    "index.html": "/VitaliiTreskov/Home-product-acc-app/index.html",
-    "main.1deb9a2d.css.map": "/VitaliiTreskov/Home-product-acc-app/static/css/main.1deb9a2d.css.map",
-    "main.e4b2613b.js.map": "/VitaliiTreskov/Home-product-acc-app/static/js/main.e4b2613b.js.map"
+    "main.css": "/Home-product-acc-app/static/css/main.1deb9a2d.css",
+    "main.js": "/Home-product-acc-app/static/js/main.e4b2613b.js",
+    "index.html": "/Home-product-acc-app/index.html",
+    "main.1deb9a2d.css.map": "/Home-product-acc-app/static/css/main.1deb9a2d.css.map",
+    "main.e4b2613b.js.map": "/Home-product-acc-app/static/js/main.e4b2613b.js.map"
   },
   "entrypoints": [
     "static/css/main.1deb9a2d.css",
